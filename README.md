@@ -55,3 +55,4 @@ You have one way to run this project:
 ## Authors:
 - [João Silva](https://github.com/ikikara)
 - [Mário Lemos](https://github.com/MrMarito)
+- [Anibal Rodrigues](https://github.com/Anibal1234)
