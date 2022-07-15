@@ -53,6 +53,6 @@ You have one way to run this project:
 
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
 - [Mário Lemos](https://github.com/MrMarito)
 - [Anibal Rodrigues](https://github.com/Anibal1234)
